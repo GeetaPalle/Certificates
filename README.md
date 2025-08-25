@@ -1,3 +1,3 @@
 # Certificates
 
-- View My Certificates
+- View My Certificates.
